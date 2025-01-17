@@ -1,0 +1,16 @@
+https://mvnrepository.com/
+
+//div[@class = 'right' and @role = 'complementary'] - поиск по наименованию атрибута
+
+//meta[contains(@content, 'Amm8')] - поиск по части наименования атрибута 
+
+//div[@class = 'page']//a - поиск передвижением по дереву до нужного элемента от выбранного
+
+//sourse[@type = 'image/webp']
+
+//source[@type = 'image/webp']/ancestor::main - передвижение вверх по дереву от выбранного элемента до искомого
+
+//div[contains(text(), 'Kafka')] - поиск по тексту 
+
+//img[@class = 'im-logo'][@src = '/img/10b39a99374599ae21363cc22cccaf79'][@alt = 'logo'][@width = '48'][@height = '48']/ancestor::main   -  избыточный поиск
+
