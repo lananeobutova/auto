@@ -1,0 +1,22 @@
+[
+  {
+    "login": "488-271-116 16",
+    "password": "K~_u)g1Ui@3",
+    "expectSuccess": true
+  },
+  {
+    "login": "384-014-878 85",
+    "password": "ckPekf}WPfm~",
+    "expectSuccess": false
+  },
+  {
+    "login": "488-271",
+    "password": "K~_u)g1Ui@3",
+    "expectSuccess": false
+  },
+  {
+    "login": "3333",
+    "password": "4444",
+    "expectSuccess": false
+  }
+]
